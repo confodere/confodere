@@ -11,6 +11,6 @@ confodere/confodere is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# This used to be Lindsay's username, but no longer!
+# This used to be Lindsay's username, no longer!
 
 ## You might be looking for [github.com/tuppercreed](https://github.com/tuppercreed/) instead.
